@@ -1,6 +1,8 @@
 Cài python trước khi chạy
 https://www.python.org/downloads/
-Chạy file start để khởi động Macro. Tạo room trước khi chạy
+Chạy file install để cài đặt
+Chạy file start để khởi động Macro.
+Tạo room trước khi chạy. Kiến nghị sử dụng cài đặt -m 125.
 -----
 1. Dùng Chung với auto hack map. tắt bớt các vật phẩm không dùng đi
 2. F1 - Teleport
